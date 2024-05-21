@@ -1,6 +1,3 @@
-Sure, here's a sample README file for your New Year landing page project:
-
----
 
 # New Year Landing Page
 
@@ -71,4 +68,3 @@ Feel free to get in touch if you have any questions or suggestions!
 
 ---
 
-Replace the placeholders with your actual information, such as the live demo link and repository link.
